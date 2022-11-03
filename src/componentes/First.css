@@ -1,0 +1,44 @@
+.first-container{
+    display: flex ;
+}
+
+
+.img{
+    margin-top: 300px;
+    margin-left: 250px;
+}
+ 
+
+.first-titulo{
+    margin-top: 300px;
+    margin-left: 20px;
+    font-size: 45px;
+    color: rgb(73, 73, 73);
+}
+
+.first-prgf{
+    margin-top: 425px;
+    margin-left: -388px;
+    color: rgb(73, 73, 73);
+}
+
+
+.first-bnt{
+    height: 60px;
+    width: 300px;
+    margin-top: 530px;
+    margin-left: -500px;
+    border: 2px solid #37c2cc;
+    background: transparent;
+    color: #37c2cc;
+    border-radius: 14px;
+    font-size: 18px ;
+}
+
+
+.first-bnt:hover{
+    transition: all .4s ease-in-out;
+    border: 2px solid ;
+    background: #cdecee;
+    overflow: hidden;
+}

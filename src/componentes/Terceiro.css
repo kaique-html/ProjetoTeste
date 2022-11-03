@@ -1,0 +1,47 @@
+.third-container{
+    display:flex;
+}
+
+
+.third-titulo{
+    margin-top: 400px;
+    margin-left: 250px;
+    font-size: 45px;
+    color: rgb(73,73,73)
+}
+
+
+.third-prgf{
+    margin-top: 480px;
+    margin-left: -435px;
+    color: rgb(73,73,73)
+}
+
+
+.third-bnt{
+    height: 60px;
+    width: 350px;
+    margin-top: 560px;
+    margin-left: -500px;
+    border: 3px solid #37c2cc;
+    background: transparent;
+    color: #37c2cc;
+    border-radius: 14px;
+    font-size: 18px ;
+}
+
+
+.third-bnt:hover{
+    transition: all .4s ease-in-out;
+    border: 2px solid ;
+    background: #cdecee;
+    overflow: hidden;
+}
+
+
+.third-img{
+  height: 364px;
+    width: 546px;
+    margin-top: 300px;
+    margin-left: 400px;
+}

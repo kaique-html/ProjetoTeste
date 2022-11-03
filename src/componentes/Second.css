@@ -1,0 +1,133 @@
+.second-container{
+    display: flex;
+    margin-top: 40px;
+    background-image: url(./imgs/imgs.svg);
+   background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+} 
+ 
+ .second-titulo{
+    margin-top: 400px;
+    margin-left: 250px;
+    color: rgb(73, 73, 73);
+    font-size: 45px;
+}
+
+.second-prgf{
+    margin-top: 520px;
+    margin-left: -520px;
+    font-size: 20px;
+    color: rgb(73, 73, 73);
+}
+
+.first-icon{
+    width: 70px;
+    height: 95px;
+    margin-top: 405px;
+    margin-left: 70px;
+    border-radius: 10px;
+    background-color: rgb(219, 251, 255);
+}
+
+.first-icon:hover{
+    transition: 0.6s;
+    background-color: rgb(119, 216, 216);
+}
+
+
+.second-titulo2{
+    margin-top: 525px;
+    margin-left: -70px;
+    color: rgb(73, 73, 73);
+}
+
+.second-prgf2{
+    margin-top: 565px;
+    margin-left: -227px;
+}
+
+
+.second-icon{
+    width: 70px;
+    height: 95px;
+    margin-top: 700px;
+    margin-left: -268px;
+    border-radius: 10px;
+    background-color: rgb(219, 251, 255);
+}
+
+
+.second-icon:hover{
+    transition: 0.6s;
+    background-color: rgb(119, 216, 216);
+}
+
+
+.second-titulo3{
+    margin-top: 830px;
+    margin-left: -65px;
+    color: rgb(73, 73, 73);
+}
+
+
+.second-prgf3{
+    margin-top: 870px;
+    margin-left: -175px;
+}
+
+
+.second-icon2{
+    width: 70px;
+    height: 95px;
+    margin-top: 405px;
+    margin-left: 200px;
+    border-radius: 10px;
+    background-color: rgb(219, 251, 255);
+}
+
+
+.second-icon2:hover{
+    transition: 0.6s;
+    background-color: rgb(119, 216, 216);
+}
+
+.second-titulo4{
+    margin-top: 525px;
+    margin-left: -60px;
+    color: rgb(73, 73, 73);
+}
+
+
+.second-prgf4{
+    margin-top: 560px;
+    margin-left: -135px;
+}
+
+
+.second-icon3{
+    width: 70px;
+    height: 95px;
+    margin-top: 700px;
+    margin-left: -265px;
+    border-radius: 10px;
+    background-color: rgb(219, 251, 255);
+}
+
+.second-icon3:hover{
+    transition: 0.6s;
+    background-color: rgb(119, 216, 216);
+}
+
+
+.second-titulo5{
+    margin-top: 830px;
+    margin-left: -65px;
+    color: rgb(73, 73, 73);
+}
+
+
+.second-prgf5{
+    margin-top: 870px;
+    margin-left: -120px;
+}
