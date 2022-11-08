@@ -10,7 +10,9 @@ import img3 from "./slides.img/slide3.png"
 
 
 function FourthComponent() {
-    return   
+    return   (<div>
+        <h1> ta no git</h1>
+    </div>)
 }
 
 export default FourthComponent;

@@ -11,6 +11,7 @@ import SecondComponent from "./componentes/SecondComponent";
 import TeceiroComponent from "./componentes/TerceiroComponent";
 
 import Eventos from "./componentes/FourthComponet";
+import FourthComponent from "./componentes/FourthComponet";
 
 
 const app = () => {
@@ -51,6 +52,7 @@ const app = () => {
 <SecondComponent />
 <TeceiroComponent />
 <Eventos />
+<FourthComponent/>
       <script src="https://kit.fontawesome.com/6d00fbc472.js" crossorigin="anonymous"></script>
   </body>)
 };
